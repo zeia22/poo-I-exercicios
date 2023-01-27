@@ -1,5 +1,6 @@
 # Exercício 1
-Configure um servidor Express conectado a um banco de dados SQLite3.<br>
+Configure um servidor Express conectado a um banco de dados SQLite3. O único endpoint necessário para esse exercício é o GET /ping <br>
+
 O banco de dados terá apenas uma entidade:
 
 ## Videos
